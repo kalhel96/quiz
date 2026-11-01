@@ -3,4 +3,13 @@
     color: white;
     border-color: #007bff;
 }
+ /* Extras (optional) */
+body {
+  background-color: #f4f6fb;
+}
+ 
+.result-emoji {
+  font-size: 56px;
+  display: block;
+}
   
